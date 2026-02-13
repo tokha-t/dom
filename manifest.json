@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Tetris",
+  "description": "Play a lightweight game of Tetris in your browser toolbar popup.",
+  "version": "1.0.0",
+  "action": {
+    "default_title": "Simple Tetris",
+    "default_popup": "popup.html"
+  }
+}
